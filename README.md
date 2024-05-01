@@ -72,8 +72,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 Server side:
+![image](https://github.com/1808charitha/Echoserver/assets/132996838/c44edc2e-8808-4345-bbfc-e5ccebd6b9fe)
+
 
 Client side:
+![image](https://github.com/1808charitha/Echoserver/assets/132996838/a17edcaf-7deb-41b4-88a9-61e7251d90c2)
+
 
 
 
